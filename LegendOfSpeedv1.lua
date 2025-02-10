@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NewHacker122/LegendOfSpeedv1/refs/heads/main/SpeedOfLegendV1"))()
